@@ -1,0 +1,15 @@
+Heading Utama: Rangga Muhamad Fajar
+H1: Rangga Muhamad Fajar
+H2: Teknik Informatika D4 - Politeknik Negeri Bandung
+H3: Tentang Saya
+H3: Pendidikan
+H3: Keterampilan
+H3: Hubungi Saya
+Paragraf 1 dalam Tentang:
+          Halo, saya Rangga Muhamad Fajar, seorang mahasiswa Program Studi D4 Teknik Informatika di Politeknik Negeri Bandung. Saya memiliki passion yang besar dalam dunia teknologi, khususnya dalam bidang pengembangan web, pemrograman, dan desain. Selama menempuh pendidikan, saya telah mempelajari berbagai konsep dan teknologi terkini seperti pengembangan aplikasi berbasis web, pemrograman berorientasi objek, basis data, serta desain antarmuka pengguna (UI/UX).
+
+Link Navigasi: #tentang - Tentang
+Link Navigasi: #pengalaman - Pengalaman
+Link Navigasi: #kontak - Kontak
+Link Navigasi: #keterampilan - Keterampilan
+Link Navigasi: #pendidikan - Pendidikan

@@ -1,0 +1,95 @@
+/* Menghapus margin dan padding default */
+html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+    font-family: Arial, sans-serif;
+    backgo
+}
+
+a{
+    color:#f2f2f2;
+    text-decoration: none;
+}
+/* Navbar styling */
+nav ul {
+    display: flex;
+    justify-content: center;
+    list-style-type: none;  
+    margin: 0px;
+    padding: 20px;
+    background: white;
+    background: linear-gradient(90deg, rgba(78,101,255,1) 0%, rgba(146,239,253,1) 100%);
+    color:#f2f2f2;
+    text-decoration: none;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 10px;
+    list-style: none;
+    color: white;
+}
+
+
+nav ul li {
+    color:#f2f2f2;
+    text-decoration: none;
+}
+
+main {
+    max-width: 800px;
+    margin: 20px auto;
+    background: white;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Header styling */
+header {
+    background-color: #f2f2f2;
+    text-align: center;
+    border-bottom: 3px solid lightblue;
+}
+
+/* Membuat foto profil menjadi lingkaran */
+header img {
+    margin: 20px;
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+}
+
+/* Main content styling */
+main, aside {
+    padding: 20px;
+    background-color: white;
+}
+
+footer {
+    padding:20px;
+    text-align: center;
+    color:#f2f2f2;
+    background: rgb(78,101,255);
+    background: linear-gradient(90deg, rgba(78,101,255,1) 0%, rgba(146,239,253,1) 100%);
+}
+
+/* Footer styling */
+footer .social-icons{
+    margin-top: 10px;
+    padding: 20px;
+    text-align: center;
+}
+
+footer .social-icons a {
+    margin: 0 10px;
+    display: inline-block;
+}
+
+footer .social-icons img {
+    width: 30px;
+    height: 30px;
+}
